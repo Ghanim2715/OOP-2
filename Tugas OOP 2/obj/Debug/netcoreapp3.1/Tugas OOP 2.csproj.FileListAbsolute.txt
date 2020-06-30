@@ -1,0 +1,26 @@
+C:\Users\ACER\source\repos\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Tugas OOP 2\Tugas OOP 2\bin\Debug\netcoreapp3.1\Tugas OOP 2.exe
+C:\Users\ACER\source\repos\Tugas OOP 2\Tugas OOP 2\bin\Debug\netcoreapp3.1\Tugas OOP 2.deps.json
+C:\Users\ACER\source\repos\Tugas OOP 2\Tugas OOP 2\bin\Debug\netcoreapp3.1\Tugas OOP 2.runtimeconfig.json
+C:\Users\ACER\source\repos\Tugas OOP 2\Tugas OOP 2\bin\Debug\netcoreapp3.1\Tugas OOP 2.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Tugas OOP 2\Tugas OOP 2\bin\Debug\netcoreapp3.1\Tugas OOP 2.dll
+C:\Users\ACER\source\repos\Tugas OOP 2\Tugas OOP 2\bin\Debug\netcoreapp3.1\Tugas OOP 2.pdb
+C:\Users\ACER\source\repos\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.dll
+C:\Users\ACER\source\repos\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.pdb
+C:\Users\ACER\source\repos\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.csprojAssemblyReference.cache
+D:\Tugas\Semester 2\Pemrograman\Tugas OOP 2\Tugas OOP 2\bin\Debug\netcoreapp3.1\Tugas OOP 2.exe
+D:\Tugas\Semester 2\Pemrograman\Tugas OOP 2\Tugas OOP 2\bin\Debug\netcoreapp3.1\Tugas OOP 2.deps.json
+D:\Tugas\Semester 2\Pemrograman\Tugas OOP 2\Tugas OOP 2\bin\Debug\netcoreapp3.1\Tugas OOP 2.runtimeconfig.json
+D:\Tugas\Semester 2\Pemrograman\Tugas OOP 2\Tugas OOP 2\bin\Debug\netcoreapp3.1\Tugas OOP 2.runtimeconfig.dev.json
+D:\Tugas\Semester 2\Pemrograman\Tugas OOP 2\Tugas OOP 2\bin\Debug\netcoreapp3.1\Tugas OOP 2.dll
+D:\Tugas\Semester 2\Pemrograman\Tugas OOP 2\Tugas OOP 2\bin\Debug\netcoreapp3.1\Tugas OOP 2.pdb
+D:\Tugas\Semester 2\Pemrograman\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.csprojAssemblyReference.cache
+D:\Tugas\Semester 2\Pemrograman\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.csproj.CoreCompileInputs.cache
+D:\Tugas\Semester 2\Pemrograman\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.AssemblyInfoInputs.cache
+D:\Tugas\Semester 2\Pemrograman\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.AssemblyInfo.cs
+D:\Tugas\Semester 2\Pemrograman\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.dll
+D:\Tugas\Semester 2\Pemrograman\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.pdb
+D:\Tugas\Semester 2\Pemrograman\Tugas OOP 2\Tugas OOP 2\obj\Debug\netcoreapp3.1\Tugas OOP 2.genruntimeconfig.cache
